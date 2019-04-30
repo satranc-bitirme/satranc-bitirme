@@ -1,0 +1,4 @@
+[02-Apr-2019 15:02:32 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/benilker/satranc.benilker.com/index.php:1) in /home/benilker/satranc.benilker.com/index.php on line 3
+[04-Apr-2019 11:57:08 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/benilker/satranc.benilker.com/index.php:1) in /home/benilker/satranc.benilker.com/index.php on line 3
+[04-Apr-2019 12:04:11 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/benilker/satranc.benilker.com/index.php:1) in /home/benilker/satranc.benilker.com/index.php on line 3
+[17-Apr-2019 14:31:15 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/benilker/satranc.benilker.com/index.php:1) in /home/benilker/satranc.benilker.com/index.php on line 3
